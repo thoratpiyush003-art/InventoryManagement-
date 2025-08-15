@@ -1,4 +1,4 @@
-CREATE DATABASE  IF NOT EXISTS `inventory` ;
+CREATE DATABASE `inventory` ;
 USE `inventory`;
 
 
